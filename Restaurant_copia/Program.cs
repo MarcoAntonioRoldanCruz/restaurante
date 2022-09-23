@@ -184,7 +184,7 @@ namespace Restaurant_copia
                         while (pago < precio) // Sí el pago es menor que el costo total no le alcanza a pagar.
                         {
                             Console.WriteLine("Disculpe no le alcanza para pagar su pedido");
-                            Console.WriteLine("Son $" + precio + " pesos");
+                            Console.WriteLine("\tSon $" + precio + " pesos");
                             Console.Write("Su pago es: $");
                             pago = int.Parse(Console.ReadLine());
                         }
