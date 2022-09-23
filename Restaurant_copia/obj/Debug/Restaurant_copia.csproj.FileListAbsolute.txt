@@ -1,0 +1,15 @@
+D:\FUND_PROGA\Restaurant_copia\Restaurant_copia\bin\Debug\Restaurant_copia.exe.config
+D:\FUND_PROGA\Restaurant_copia\Restaurant_copia\bin\Debug\Restaurant_copia.exe
+D:\FUND_PROGA\Restaurant_copia\Restaurant_copia\bin\Debug\Restaurant_copia.pdb
+D:\FUND_PROGA\Restaurant_copia\Restaurant_copia\obj\Debug\Restaurant_copia.csproj.AssemblyReference.cache
+D:\FUND_PROGA\Restaurant_copia\Restaurant_copia\obj\Debug\Restaurant_copia.csproj.SuggestedBindingRedirects.cache
+D:\FUND_PROGA\Restaurant_copia\Restaurant_copia\obj\Debug\Restaurant_copia.csproj.CoreCompileInputs.cache
+D:\FUND_PROGA\Restaurant_copia\Restaurant_copia\obj\Debug\Restaurant_copia.exe
+D:\FUND_PROGA\Restaurant_copia\Restaurant_copia\obj\Debug\Restaurant_copia.pdb
+C:\wamp64\www\repositorios\FUND_PROGRA\restaurante\Restaurant_copia\bin\Debug\Restaurant_copia.exe.config
+C:\wamp64\www\repositorios\FUND_PROGRA\restaurante\Restaurant_copia\bin\Debug\Restaurant_copia.exe
+C:\wamp64\www\repositorios\FUND_PROGRA\restaurante\Restaurant_copia\bin\Debug\Restaurant_copia.pdb
+C:\wamp64\www\repositorios\FUND_PROGRA\restaurante\Restaurant_copia\obj\Debug\Restaurant_copia.csproj.AssemblyReference.cache
+C:\wamp64\www\repositorios\FUND_PROGRA\restaurante\Restaurant_copia\obj\Debug\Restaurant_copia.csproj.CoreCompileInputs.cache
+C:\wamp64\www\repositorios\FUND_PROGRA\restaurante\Restaurant_copia\obj\Debug\Restaurant_copia.exe
+C:\wamp64\www\repositorios\FUND_PROGRA\restaurante\Restaurant_copia\obj\Debug\Restaurant_copia.pdb
